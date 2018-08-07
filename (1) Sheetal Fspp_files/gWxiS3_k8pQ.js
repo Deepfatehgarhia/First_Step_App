@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["\/Rvdg"]); }
+
+__d("UnifiedStoriesSettingGraphQLWebGraphQLQuery",["WebGraphQLQueryBase"],(function(a,b,c,d,e,f){"use strict";__p&&__p();e.exports=function(){__p&&__p();var a;a=babelHelpers.inherits(c,b("WebGraphQLQueryBase"));a&&a.prototype;c.__getDocID=function(){"use strict";return"1619282521526216"};c.getQueryID=function(){"use strict";return"2045499392436729"};function c(){"use strict";a.apply(this,arguments)}return c}()}),null);
